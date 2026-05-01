@@ -1,0 +1,7 @@
+app/wishlist/page.tsx:        <div className="cf-section-title">
+app/globals.css:  .cf-section-title {
+app/chores/page.tsx:        <div className="cf-section-title">
+app/expenses/page.tsx:        <div className="cf-section-title">
+app/expenses/page.tsx:          <div className="cf-section-title">
+app/page.tsx:        <div className="cf-section-title">
+app/page.tsx:        <div className="cf-section-title">
