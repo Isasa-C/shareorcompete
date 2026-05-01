@@ -107,7 +107,7 @@ function ThemePreviewCard({
 export default function AppearancePage() {
   const { themeId, setThemeId } = useTheme();
   const [toastVisible, setToastVisible] = useState(false);
-  const toastTimeoutRef = useRef<ReturnType<typeof window.setTimeout> | null>(
+  const toastTimeoutRef = useRef<number | null>(
     null,
   );
 
